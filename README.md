@@ -1,7 +1,10 @@
 🔧 Embedded Systems Engineer | Firmware Developer | Field Application Engineer
 
 💻 Currently working on: Low-power firmware for IoT sensors. 
-📚 Learning: Microcontroller (SoC) design, Advanced IoT devices and edge AI integration. ✉️ Email : dougkimus@gmail.com
+
+📚 Learning: Microcontroller (SoC) design, Advanced IoT devices and edge AI integration. 
+
+✉️ Email : dougkimus@gmail.com
 
 <!--
 **duck-hwan/duck-hwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
