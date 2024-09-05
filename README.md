@@ -5,7 +5,7 @@
 🔧 DSP programming for video, audio, and communication. 
 🔧 Embedded Systems Engineer | Firmware Developer
 
-💻 Currently working on: Low-power firmware for IoT sensors. 
+💻 Currently working on: Low-power firmware for IoT devices. 
 
 📚 Learning: Microcontroller (SoC) design, Advanced IoT devices and edge AI integration. 
 
