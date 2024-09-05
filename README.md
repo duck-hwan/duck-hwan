@@ -1,8 +1,8 @@
 👋 Hi, I’m Duck-Hwan Kim.
 
-🔧 General Purpose Processor SoC & FPGA application.
-🔧 Algorithm, ASIC and ASIP design.
-🔧 DSP programming for video, audio, and communication. 
+🔧 General Purpose Processor SoC & FPGA application.  
+🔧 Algorithm, ASIC and ASIP design.  
+🔧 DSP programming for video, audio, and communication.   
 🔧 Embedded Systems Software
 
 💻 Currently working on: Low-power firmware for IoT devices. 
