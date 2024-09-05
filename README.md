@@ -3,7 +3,7 @@
 🔧 General Purpose Processor SoC & FPGA application.
 🔧 Algorithm, ASIC and ASIP design.
 🔧 DSP programming for video, audio, and communication. 
-🔧 Embedded Systems Engineer | Firmware Developer
+🔧 Embedded Systems Software
 
 💻 Currently working on: Low-power firmware for IoT devices. 
 
